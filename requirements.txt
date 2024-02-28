@@ -1,0 +1,8 @@
+transformers
+rasterio
+scipy
+matplotlib
+torch
+torchvision
+tensorboard
+lightning-flash
