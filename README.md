@@ -6,3 +6,4 @@ This repository contains jupyter notebooks for the training of DPT-Decoder on to
 - Store the two satelite image areas in the data folder 
 - Store the train area LiDAR files in the /data/tran folder
 - Store the test area LiDAR files in the /data/test folder
+- Add model files to the model folder
